@@ -1,6 +1,6 @@
 # AMB82 Camera Backup System
 
-![AMB82 System Logo](path_to_logo_image)
+![AMB82 System Logo](logo.png)
 
 AMB82 is an innovative system that seamlessly captures images using its onboard camera, saves them directly to an SD card, and later backs up the captured images on Google Drive. Additionally, the system is integrated with Line Notify to keep you informed about its status.
 
